@@ -39,6 +39,7 @@ En engageant les utilisateurs dans une expérience de jeu immersive, ce projet P
 2. **[NOTICE] Comment Jouer ?**
    - Affiche les instructions sur la manière de jouer au Puissance 4.
    - Vous pouvez revenir au menu principal en appuyant sur la touche 'M' ou 'm'.
+
 ![2](https://github.com/Yukssssss/Puissance-4/assets/115793657/55e1533f-2f27-4b1c-ad79-1684327fb574)
 
 3. **[QUITTER CONSOLE]**
