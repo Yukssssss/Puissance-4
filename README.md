@@ -1,5 +1,9 @@
 # Projet Connect 4 (Puissance 4 en C)
 
+## Prérequis : 
+
+Assurez-vous d'avoir un compilateur C installé sur votre système. Vous pouvez utiliser GCC (GNU Compiler Collection) ou tout autre compilateur C compatible. Si vous souhaitez lancez le jeu, vous pouvez également lancer le "main.exe".
+
 ## Description
 
 Ce projet est une implémentation complète et robuste du célèbre jeu Puissance 4 en langage C. Conçu avec soin, il offre une expérience de jeu interactive, où deux joueurs peuvent s'affronter pour atteindre la victoire en alignant habilement quatre jetons sur un plateau virtuel. Cette implémentation en C met en avant non seulement le plaisir du jeu, mais aussi la compréhension des concepts de programmation.
